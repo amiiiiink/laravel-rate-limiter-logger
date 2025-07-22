@@ -1,5 +1,5 @@
 {
-    "name": "amiiiiink/laravel-rate-limiter-logge",
+    "name": "amiiiiink/laravel-rate-limiter-logger",
     "description": "A flexible rate limiting middleware for Laravel and Lumen applications",
     "type": "library",
     "license": "MIT",
