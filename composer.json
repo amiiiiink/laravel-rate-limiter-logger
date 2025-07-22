@@ -17,7 +17,7 @@
         {
             "name": "Amin Karimi",
             "email": "karimi66.amin@gmail.com",
-            "homepage": "https://github.com/amiiiiink",
+            "homepage": "https://github.com/amiiiiink/",
             "role": "Developer"
         }
     ],
@@ -42,7 +42,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Aporat\\RateLimiter\\Tests\\": "tests/"
+            "Amiiiiink\\RateLimiter\\Tests\\": "tests/"
         }
     },
     "config": {
@@ -70,8 +70,8 @@
         "analyze": "phpstan analyse src --level=6 --memory-limit=-1"
     },
     "support": {
-        "issues": "https://github.com/aporat/laravel-rate-limiter/issues",
-        "source": "https://github.com/aporat/laravel-rate-limiter"
+        "issues": "https://github.com/amiiiiink/laravel-rate-limiter/issues",
+        "source": "https://github.com/amiiiiink/laravel-rate-limiter"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
