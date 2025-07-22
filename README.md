@@ -1,11 +1,11 @@
 # Laravel Rate Limiter
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/aporat/laravel-rate-limiter.svg?style=flat-square&logo=composer)](https://packagist.org/packages/aporat/laravel-rate-limiter)
-[![Downloads](https://img.shields.io/packagist/dt/aporat/laravel-rate-limiter.svg?style=flat-square&logo=composer)](https://packagist.org/packages/aporat/laravel-rate-limiter)
-[![Codecov](https://img.shields.io/codecov/c/github/aporat/laravel-rate-limiter?style=flat-square)](https://codecov.io/github/aporat/laravel-rate-limiter)
+[![Latest Stable Version](https://img.shields.io/packagist/v/amiiiiink/laravel-rate-limiter.svg?style=flat-square&logo=composer)](https://packagist.org/packages/amiiiiink/laravel-rate-limiter)
+[![Downloads](https://img.shields.io/packagist/dt/amiiiiink/laravel-rate-limiter.svg?style=flat-square&logo=composer)](https://packagist.org/packages/amiiiiink/laravel-rate-limiter)
+[![Codecov](https://img.shields.io/codecov/c/github/amiiiiink/laravel-rate-limiter?style=flat-square)](https://codecov.io/github/amiiiiink/laravel-rate-limiter)
 [![Laravel Version](https://img.shields.io/badge/Laravel-12.x-orange.svg?style=flat-square)](https://laravel.com/docs/12.x)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/aporat/laravel-rate-limiter/ci.yml?style=flat-square)
-[![License](https://img.shields.io/packagist/l/aporat/laravel-rate-limiter.svg?style=flat-square)](https://github.com/aporat/laravel-rate-limiter/blob/master/LICENSE)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/amiiiiink/laravel-rate-limiter/ci.yml?style=flat-square)
+[![License](https://img.shields.io/packagist/l/amiiiiink/laravel-rate-limiter.svg?style=flat-square)](https://github.com/amiiiiink/laravel-rate-limiter/blob/master/LICENSE)
 
 A flexible rate limiting middleware for Laravel applications, designed to throttle requests and actions using Redis.
 
@@ -26,7 +26,7 @@ A flexible rate limiting middleware for Laravel applications, designed to thrott
 Install the package via [Composer](https://getcomposer.org/):
 
 ```bash
-composer require aporat/laravel-rate-limiter
+composer require amiiiiink/laravel-rate-limiter
 ```
 
 The service provider (`RateLimiterServiceProvider`) is automatically registered via Laravel’s package discovery. If auto-discovery is disabled, add it to `config/app.php`:
@@ -173,11 +173,11 @@ Contributions are welcome! Please:
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a pull request.
 
-Report issues at [GitHub Issues](https://github.com/aporat/laravel-rate-limiter/issues).
+Report issues at [GitHub Issues](https://github.com/amiiiiink/laravel-rate-limiter/issues).
 
 ## License
 This package is licensed under the [MIT License](LICENSE). See the [License File](LICENSE) for details.
 
 ## Support
-- **Issues**: [GitHub Issues](https://github.com/aporat/laravel-rate-limiter/issues)
-- **Source**: [GitHub Repository](https://github.com/aporat/laravel-rate-limiter)
+- **Issues**: [GitHub Issues](https://github.com/amiiiiink/laravel-rate-limiter/issues)
+- **Source**: [GitHub Repository](https://github.com/amiiiiink/laravel-rate-limiter)
